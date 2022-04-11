@@ -25,7 +25,7 @@ margin-top: 5px;
  margin-top: 110px;
  font-size: 22px;
  font-weight: normal;
- margin-left: 400px;
+ margin-left: 300px;
  float: left;
  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
@@ -64,9 +64,8 @@ margin-top: 50px;
 .new {
     background-color: #D8E8EA;
     float: left;
- 
     margin-top: 50px; 
-    margin-left: 70px;
+   
 }
 .text>p {
     font-size: large;
@@ -80,7 +79,7 @@ margin-top: 50px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;  
     margin-top: 70px;
-    width: 700px;
+    width: 660px;
     height: 754px;
 }
 p a{
@@ -88,12 +87,12 @@ p a{
 }
 .left {
     height: 825px;
-    width: 700px;
+    width: 650px;
     background-color: #e7f0e4;
     float: right;
     margin-top: 50px;
     text-align: center;
-    margin-right: 70px;
+  
 }
 
 .left>a {
@@ -124,7 +123,7 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
 .end>a {
     text-decoration: none;
    display: inline-block;
-margin-left: 590px;
+margin-left: 495px;
    border: 2px solid #77d7c8;
    line-height: 50px;
    width: 210px;
